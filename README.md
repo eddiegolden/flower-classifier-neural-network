@@ -10,3 +10,5 @@ There are also three Python files that turn the model to an app with different p
 The project was the final assigment in Udacity great course Nanodegree "AI programming with Python". (If you're a student, you can look for inspiration but don't copy&paste parts of the code. It won't benefit you)
 
 ![Flower Classifier](flowers.png)
+
+![results](daffodil.png)
